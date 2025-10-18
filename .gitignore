@@ -1,10 +1,6 @@
-bin/ 
-obj/ 
-.vs/ 
-*.user 
-*.suo 
-*.db 
-*.cache 
-*.log 
-*.ide 
-/packages/ 
+bin/
+obj/
+.vs/
+*.user
+*.db
+*.cache
